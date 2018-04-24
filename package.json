@@ -1,5 +1,5 @@
 {
-  "name": "@ali/push-2016-08-01",
+  "name": "@alicloud/push-2016-08-01",
   "version": "1.0.0",
   "description": "Push 2016-08-01 Node.js SDK",
   "main": "lib/client.js",
@@ -8,8 +8,5 @@
   "license": "MIT",
   "dependencies": {
     "@alicloud/pop-core": "^1.5.1"
-  },
-  "publishConfig": {
-    "registry": "http://registry.npm.alibaba-inc.com"
   }
 }
